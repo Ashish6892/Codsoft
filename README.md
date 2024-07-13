@@ -1,2 +1,2 @@
 # Codsoft
-Here i have created a  calculator with basic operators using HTML,CSS,JS 
+This is my Codsoft internship repository where i have uploaded all my projects durning my intership at codsoft 
